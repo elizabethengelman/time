@@ -1,4 +1,8 @@
 # Time
+## Car
+![](./car.gif)
+## Beads
+![](./beads.gif)
 ## Resources
 * [http://learn.digitalharbor.org/courses/creative-programming/lessons/using-timers-in-p5-js/](http://learn.digitalharbor.org/courses/creative-programming/lessons/using-timers-in-p5-js/)
 * [https://creative-coding.decontextualize.com/making-games-with-p5-play/](https://creative-coding.decontextualize.com/making-games-with-p5-play/)
